@@ -83,5 +83,5 @@ MIT LICENSE:
   author={John Doe, Jane Smith, et al.},
   journal={Proceedings of the 2023 AI Ethics Conference},
   year={2023},
-  url={https://artifact-dataset.org}
+  url=" https://artifact-dataset.org "
 }
